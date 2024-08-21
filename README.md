@@ -4,9 +4,9 @@ Este proyecto tiene como objetivo automatizar el proceso de generación de factu
 
 ## Apoyo
 
-Si te gustan mis proyectos me puedes apoyar haciendote miembro de mi canal --> https://www.youtube.com/channel/UCJ_twZENBaL3L6AmIGYHVrw/join
+Si te gustan mis proyectos me puedes apoyar haciendote [MIEMBRO DE MI CANAL](https://www.youtube.com/channel/UCJ_twZENBaL3L6AmIGYHVrw/join)
 
-O en mi patreon: patreon.com/toni_dev
+O en mi patreon: [patreon.com/toni_dev](https://www.patreon.com/toni_dev)
 
 ## Características
 
